@@ -40,16 +40,17 @@ This project is a simple two-player Tic Tac Toe game built using Python in a Jup
 ---
 
 ## 📸 Screenshots
+
 ### Start of Game
-![Start](screenshots/start.png)
+![Start](start.jpg)
 
 ### Mid Game
-![Mid Game](screenshots/mid_game.png)
+![Mid Game](mid_game.jpg)
 
 ### Winning State
-![Win](screenshots/win.png)
+![Win](win.jpg)
 
 ### Draw State
-![Draw](screenshots/draw.png)
+![Draw](draw.jpg)
 
 ---
