@@ -1,34 +1,55 @@
-# Tic Tac Toe (Python Console Game)
+# Tic Tac Toe (Python Jupyter Notebook)
 
 ## Overview
-This project is a simple command-line Tic Tac Toe game built in Python. It demonstrates core programming concepts such as control flow, functions, input validation, and game logic design. The game allows two players to compete by taking turns until a winner is determined or the game ends in a draw.
+This project is a simple two-player Tic Tac Toe game built using Python in a Jupyter Notebook. Players take turns placing X and O on a 3x3 grid until one player wins or the game ends in a draw.
 
 ---
 
 ## Features
-- Two-player turn-based gameplay (X and O)
-- Input validation for user moves
-- Automatic win detection (rows, columns, diagonals)
-- Draw detection when the board is full
-- Dynamic board updates after each move
+- Two-player turn-based gameplay
+- Win detection (rows, columns, diagonals)
+- Draw detection
+- Input validation
+- Interactive notebook execution
 
 ---
 
-## Skills Demonstrated
+## ▶️ How to Run
+1. Open Jupyter Notebook
+2. Open `TicTacToeGame.ipynb`
+3. Run all cells from top to bottom
+
+---
+
+## 🎮 How to Play
+- Player X goes first
+- Enter moves as row and column numbers (1–3)
+- Example: `1 1` = top-left corner
+- Players alternate turns
+- First player to get 3 in a row wins
+
+---
+
+## 🧠 Skills Demonstrated
 - Python programming fundamentals
-- Function decomposition and modular design
-- Control flow (loops and conditionals)
-- State management (game board tracking)
-- User input handling and validation
-- Algorithmic thinking (win condition logic)
+- Control flow and logic design
+- Input validation
+- Function-based programming
+- Game state management
 
 ---
 
-##  How to Run the Game
+## 📸 Screenshots
+### Start of Game
+![Start](screenshots/start.png)
 
-1. Make sure you have Python installed (Python 3+ recommended)
-2. Clone or download this repository
-3. Run the script:
+### Mid Game
+![Mid Game](screenshots/mid_game.png)
 
-```bash
-python tic_tac_toe.py
+### Winning State
+![Win](screenshots/win.png)
+
+### Draw State
+![Draw](screenshots/draw.png)
+
+---
